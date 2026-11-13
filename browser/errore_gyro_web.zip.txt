@@ -5,4 +5,5 @@ Apri un terminale nella cartella estratta build/web.
 Avvia un piccolo server web:
 python3 -m http.server 8000
 Apri il browser su http://localhost:8000.
-Lascia il terminale aperto mentre usi l’app. Non spostare index.html separandolo dalle altre cartelle e file: sono necessari per caricare l’applicazione.
+Lascia il terminale aperto mentre usi l’app. 
+Non spostare index.html separandolo dalle altre cartelle e file: sono necessari per caricare l’applicazione.
